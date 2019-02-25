@@ -1,6 +1,5 @@
 html {
   box-sizing: border-box;
-  font-family: "helvetica neue";
   font-size: 20px;
   font-weight: 200;
 }
@@ -40,19 +39,32 @@ body {
 }
 
 .panel1 {
+  color: #79c0d7;
   background-image: url(./Images/winter.jpg);
+  background-color: #79c0d7;
+  font-family: "Kaushan Script", cursive;
 }
 
 .panel2 {
+  color: #ffffff;
   background-image: url(./Images/spring.jpg);
+  background-color: #ffffff;
+  font-family: "Rouge Script", cursive;
 }
 
 .panel3 {
+  color: #fffe6f;
   background-image: url(./Images/summer.jpg);
+  background-color: #fffe6f;
+  font-family: "Kaushan Script", cursive;
+  font-family: "Oleo Script Swash Caps", cursive;
 }
 
 .panel4 {
+  color: #f0653b;
   background-image: url(./Images/autumn.jpg);
+  background-color: #f0653b;
+  font-family: "Dancing Script", cursive;
 }
 
 /* Flex Items */
@@ -83,8 +95,6 @@ body {
 }
 
 .panel p {
-  text-transform: uppercase;
-  font-family: "Amatic SC", cursive;
   text-shadow: 0 0 4px rgba(0, 0, 0, 0.72), 0 0 14px rgba(0, 0, 0, 0.45);
   font-size: 2em;
 }
