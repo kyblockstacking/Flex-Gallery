@@ -9,7 +9,7 @@ body {
 }
 
 body:hover {
-  cursor: default;
+  cursor: pointer;
 }
 
 *,
