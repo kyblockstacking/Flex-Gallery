@@ -1,4 +1,4 @@
-<h1>Seasons</h1>
+# [Seasons](https://kyblockstacking.github.io/Seasons/)
 
 <h2>Preview</h2>
 
