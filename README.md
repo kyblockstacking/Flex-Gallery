@@ -1,6 +1,6 @@
 # [Seasons](https://kyblockstacking.github.io/Seasons/)
 
-<h1>A demonstration of a collapsable image gallery</h1>
+<h1>A demonstration of a collapsible image gallery</h1>
 
 <h2>Preview</h2>
 
